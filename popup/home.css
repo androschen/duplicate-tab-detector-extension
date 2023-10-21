@@ -1,0 +1,8 @@
+html, body {
+    width: 200px;
+    height: 300px;
+}
+
+.panel {
+    margin: 10px;
+}
